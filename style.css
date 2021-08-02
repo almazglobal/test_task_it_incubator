@@ -1,0 +1,24 @@
+div {
+  font-size: 12px;
+  font-family: Arial, sans-serif;
+}
+
+#block-search {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#block-search input[type='text'] {
+  background: #f4f4ec;
+  border: #dfdfdf 1px solid;
+}
+
+#block-search input[type='submit'] {
+  background: #05cf6a;
+  color: #ffffff;
+  text-transform: uppercase;
+  font-size: 12px;
+  font-family: Arial, sans-serif;
+  border: #ba4f23 2px solid;
+  padding: 5px 5px;
+}
